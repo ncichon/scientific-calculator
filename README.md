@@ -1,2 +1,1 @@
-# scientific-calculator
-Scientific calculator in Python.
+The scientific calculator (calculator.py) works standalone as a console application or it can be imported and used in another python file.  Send a string mathematical expression to the solve() function and the return value will be the solution.
